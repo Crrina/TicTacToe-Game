@@ -1,5 +1,5 @@
 # TicTacToe-Game
-TicTacToe Game in Java using JavaFX. To start the game go to the file TicTacToeApp which contains the main method and run it. Here is the video of the game:
+TicTacToe Game in Java using JavaFX. To start the game go to the file TicTacToeApp which contains the main method and run it. Requires Maven. Here is the video of the game:
 
 
 
